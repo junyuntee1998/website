@@ -1,0 +1,91 @@
+{
+
+    "title": "SPOTLYTE",
+
+    "menu": ["Home", "Features", "Pricing"],
+
+    "hero_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+
+    "article_snippet_1": {
+
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+
+        "img_path": "images/active-adult-basket-1479584.jpg"
+
+    },
+
+    "article_snippet_2": {
+
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+
+        "img_path": "images/active-adult-basket-1479584.jpg"
+
+    },
+
+    "article_snippet_3": {
+
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+
+        "img_path": "images/active-adult-basket-1479584.jpg"
+
+    },
+
+    "feature_section_1": {
+
+        "title": "Questions about beauty, skincare, and medical aesthetics? Just ask.",
+
+        "number": "Our trained aesthetic specialists are here to help with the personalized answers you want.",
+
+        "categories": ["crows feet", "Thinning lips", "dark spots", "Acne Scarring"],
+
+        "person_1": {
+
+            "img_path": "images/Olivia.png",
+
+            "name": "Olivia"
+
+        },
+
+        "person_2": {
+
+            "img_path": "images/Molly.png",
+
+            "name": "Molly"
+
+        },
+
+        "person_3": {
+
+            "img_path": "images/Jacob.png",
+
+            "name": "Jacob"
+
+        }
+
+    },
+
+    "article_snippet_4": {
+
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+
+        "img_path": "images/active-adult-basket-1479584.jpg"
+
+    },
+
+    "article_snippet_5": {
+
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+
+        "img_path": "images/active-adult-basket-1479584.jpg"
+
+    },
+
+    "article_snippet_6": {
+
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+
+        "img_path": "images/active-adult-basket-1479584.jpg"
+
+    }
+
+}

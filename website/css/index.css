@@ -67,6 +67,7 @@ figure figcaption {
 
 .col-sm-6 h1{
 	margin-top:140px;
+	margin-left:65px;
 }
 
 footer{
@@ -85,6 +86,7 @@ footer .navbar-nav {
 footer .navbar-expand-lg{
 	float:right;
 }
+
 
 @media only screen and (max-width:576px){
 	footer{
@@ -123,6 +125,7 @@ footer .navbar-expand-lg{
 	.navbar-brand{
 	font-size:50px;
 }
+
 }
 
 
@@ -130,6 +133,38 @@ footer .col-sm-2{
 	padding-top:6px;
 }
 
+    .bar {
+      display: block;
+      width: 30px;
+      margin-bottom: 4px;
+      height: 5px;
+      background-color: #000;
+      border-radius: 1px;
+      transition: all 0.3s ease-in-out;
+    }
+
+.on .one {
+  transform: rotate(45deg) translate(6px, 6px);
+}
+
+.on .two {
+  opacity: 0;
+}
+
+.on .three {
+  transform: rotate(-45deg) translate(6px, -6px);
+}
+.navbar-light .navbar-toggler-icon{
+	background:none;
+}
+
+.navbar-light .navbar-toggler{
+	border:none;
+}
+
+.one{
+	margin-top:6px;
+}
 @media only screen and (max-width:1295px)
 {
 	.card-deck{
@@ -139,6 +174,8 @@ footer .col-sm-2{
 	.cardAll{
 		margin-top:796px;
 	}
-
+	.card{
+		margin-bottom:15px!important;
+	}
 }
 
